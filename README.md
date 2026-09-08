@@ -4,7 +4,7 @@ A new **1Fi Marketplace** section built inside the existing Shop experience of t
 The Shop page exposes three entries — Top Brands, Nearby Stores (both intentionally empty, as
 specified) and 1Fi Marketplace, which is fully designed and implemented.
 
-**Live demo:** 
+**Live demo: [https://1fi-marketplace-zeta.vercel.app/shop/marketplace](url)** 
 
 ## What is implemented
 
